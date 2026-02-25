@@ -31,3 +31,25 @@ p{
     line-height: 1.5;
     margin: 1px;
 }
+div{
+    background-color: #2bb3b1;
+    padding: 25px;
+    
+}
+#d1{
+    p{
+        color: white;
+        strong{
+            filter: opacity(50%);
+        }
+    }
+}
+h2{
+    color: #ffffff;
+    margin: 0px;
+    font-size: 15px;
+}
+span{
+    font-size: 25px;
+    color: #ffffff;
+}
