@@ -41,8 +41,17 @@ div{
         color: white;
         strong{
             filter: opacity(50%);
+            font-weight: 400;
+            padding: 5px;
         }
     }
+}
+.line{
+    filter: opacity(70%);
+}
+.valor{
+    display: flex;
+    align-items: center;
 }
 h2{
     color: #ffffff;
@@ -52,4 +61,13 @@ h2{
 span{
     font-size: 25px;
     color: #ffffff;
+     padding: 10px; 
+}
+#button{
+    background-color: #bfdf32;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px ;
+    
 }
