@@ -1,1 +1,33 @@
-charset="UTF-8"
+@charset "UTF-8";
+body{
+    background-color: #dfeaf3;
+     font-family: "Karla", sans-serif;
+}
+main{
+    margin: auto;
+    width: 300px;
+}
+header{
+  background-color: #ffffff;  
+  padding: 28px;
+}
+h1{
+    color: #5ebcb5;
+    padding: 1px;
+    margin: 1px;
+    font-size: 18px
+}
+#one{
+    color: hsl(71, 73%, 54%);
+    font-size: 14px;
+    font-weight: 600;
+    padding-block: 10px;
+    margin: 1px;
+}
+p{
+    color: #b7bcc0;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.5;
+    margin: 1px;
+}
