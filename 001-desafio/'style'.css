@@ -4,7 +4,7 @@ body{
      font-family: "Karla", sans-serif;
 }
 main{
-    margin: auto;
+    margin-top: 20px;
     width: 300px;
 }
 header{
@@ -69,5 +69,12 @@ span{
     padding: 10px;
     margin-top: 20px;
     border-radius: 5px ;
-    
+}
+.d2{
+    background-color: #4abebd;
+    p{
+        padding-top: 20px;
+        color: #d1e2e4;
+        width: 180px;
+    }
 }
